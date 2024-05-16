@@ -1,0 +1,11 @@
+c“Se necesita una base de datos de los diferentes modelos de autos del mercado. 
+Por cada modelo se desea saber la marca, nombre y precio actual. 
+
+También se requiere conocer el motor que posee, el cual tiene su nombre propio, 
+cilindrada, potencia y marca (que no tiene por qué ser igual a la del auto).
+ 
+Las marcas se encuentran clasificadas según su nacionalidad. 
+
+Cada modelo se compone además de diferentes accesorios y, de acuerdo al modelo, 
+el accesorio puede estar incluido o ser opcional en la compra (ej: alarma). 
+Cada accesorio tiene su propio código”
