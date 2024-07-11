@@ -1,0 +1,12 @@
+
+-jerarquias :
+	-solapamiento:	
+		-con: puede ser las 2 subentidades
+		-sin: es uno pero no puede ser el otro subentidad
+
+	-particion: 
+		-parcial: puedo ser una supraentidad(otro rol que no existe)
+		-total: o es uno o es otro
+
+
+hacer ejercicio del videoclub

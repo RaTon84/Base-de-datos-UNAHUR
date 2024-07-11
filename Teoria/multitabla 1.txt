@@ -1,0 +1,20 @@
+create table almacen
+(nro int primary key,
+	responsable varchar(50))
+
+select * from almacen
+
+create table articulo
+(cdoArt int primary key,
+	descripcion varchar(50),
+	precio float)
+
+create table material
+(codMat int primary key,
+	descrpcion varchar(50))
+
+create table proveedor
+(codProv int primary key,
+	nombre varchar(50),
+	domicilio varchar(50)
+	)
